@@ -1,5 +1,5 @@
 You will need to provide a image file for this project to analyze. 
-I intend to create a 2d mapped image with DJI Terra in order to analyze and entire Construction site all at once. 
+I intend to create a 2d mapped image with DJI Terra and a DJI Mavic in order to analyze and entire Construction site all at once. 
 Any Image will process though.
 
 The pixel analysis is not all inclusive. I have not been able to do any real world testing. 
